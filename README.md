@@ -1,16 +1,13 @@
-# favorite_places_app
+# Favorite Places Application with Flutter
 
-A new Flutter project.
+<p align="center" float="left">
+  <img align="top" src="https://i.ibb.co/g635kyw/Screenshot-20231009-115236.png" width="30%" height="30%">
+  <img align="top" src="https://i.ibb.co/t2kpyxC/Screenshot-20231009-115249.png" width="30%" height="30%">
+  <img align="top" src="https://i.ibb.co/PDm9kVQ/Screenshot-20231009-115256.png" width="30%" height="30%">
+</p>
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<p align="center" float="left">
+  <img align="top" src="https://i.ibb.co/5WLJBQd/Screenshot-20231009-120442.png" width="30%" height="30%">
+  <img align="top" src="https://i.ibb.co/XXbTYJq/Screenshot-20231009-121703.png" width="30%" height="30%">
+  <img align="top" src="https://i.ibb.co/jJG0yvV/Screenshot-20231009-121722.png" width="30%" height="30%">
+</p>
